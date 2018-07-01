@@ -1,0 +1,14 @@
+C:\Users\lluis\Source\Repos\Visualbasic\p5\p5\bin\Debug\p5.exe.config
+C:\Users\lluis\Source\Repos\Visualbasic\p5\p5\bin\Debug\p5.exe
+C:\Users\lluis\Source\Repos\Visualbasic\p5\p5\bin\Debug\p5.pdb
+C:\Users\lluis\Source\Repos\Visualbasic\p5\p5\bin\Debug\p5.xml
+C:\Users\lluis\Source\Repos\Visualbasic\p5\p5\obj\Debug\p5.Form1.resources
+C:\Users\lluis\Source\Repos\Visualbasic\p5\p5\obj\Debug\p5.Resources.resources
+C:\Users\lluis\Source\Repos\Visualbasic\p5\p5\obj\Debug\p5.vbproj.GenerateResource.Cache
+C:\Users\lluis\Source\Repos\Visualbasic\p5\p5\obj\Debug\p5.exe
+C:\Users\lluis\Source\Repos\Visualbasic\p5\p5\obj\Debug\p5.xml
+C:\Users\lluis\Source\Repos\Visualbasic\p5\p5\obj\Debug\p5.pdb
+C:\Users\lluis\Desktop\p5\p5\bin\Debug\p5.exe.config
+C:\Users\lluis\Desktop\p5\p5\obj\Debug\p5.exe
+C:\Users\lluis\Desktop\p5\p5\obj\Debug\p5.xml
+C:\Users\lluis\Desktop\p5\p5\obj\Debug\p5.pdb
